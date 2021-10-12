@@ -37,12 +37,26 @@ This assignment was relatively simple, but was challenging because I had not cod
 
 ### Assignment Description
 
-Your turn! You will be writing a section of readme like this for all subsequent assignments.
+For this assignment I had to create a calculator on python that could enter two values and the function doMath to give you the sum, the difference, the product, the quotient, and the modulo. The modulo is the remainder of a division problem. 
 
 ### Evidence 
-
+<img src="https://github.com/ccsjreyes64/Engineering_4_Notebook/blob/main/Media/Calculator.PNG" height=200>
 
 ### Wiring
 N/A
 
 ### Reflection
+I learned what a modulo is. 
+
+## Quadratic Solver
+
+### Assignment Description
+
+For this assignment I had to make a program where the user could input values for a, b, and c and it would give you the roots. 
+
+### Evidence
+<img src="https://github.com/ccsjreyes64/Engineering_4_Notebook/blob/main/Media/QuadraticSolver.PNG" height=200>
+
+### Reflection
+
+For this assignment I had to remember how to find the discriminant of a function. The math part of this was hard, because I'm not good at math. 
