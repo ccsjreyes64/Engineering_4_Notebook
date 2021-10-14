@@ -6,6 +6,7 @@ I didn't ask you to document hello_world.py or dice_roller.py. I'll start off wi
 ## Table of Contents
 * [Python_Dice_Roller](#PythonDiceRoller)
 * [Python_Calculator](#Python_Calculator)
+* [Strings and Loops](#StringsandLoops)
 ---
 
 ## Python_Dice_Roller
@@ -60,3 +61,15 @@ For this assignment I had to make a program where the user could input values fo
 ### Reflection
 
 For this assignment I had to remember how to find the discriminant of a function. The math part of this was hard, because I'm not good at math. 
+
+## Strings and Loops
+
+### Assignment Description
+
+This assignment we had to write a program that asked the user to enter a sentence. The code will split the individual words into letters, printing each letter on a different line.
+
+### Evidence
+<img src="https://github.com/ccsjreyes64/Engineering_4_Notebook/blob/main/Media/Capture.PNG" height="200">
+
+### Reflection
+I learned how to use split() function this assignment to seperate sentences by the line. This assignment also further helped me improved on my variable and arrays.
