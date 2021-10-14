@@ -73,3 +73,16 @@ This assignment we had to write a program that asked the user to enter a sentenc
 
 ### Reflection
 I learned how to use split() function this assignment to seperate sentences by the line. This assignment also further helped me improved on my variable and arrays.
+
+## MSP
+
+### Assignment Description
+
+This assignment you had to create a 2 player hangman game using python where player one enters the word and player 2 gets 7 oppurtunities to miss until it's game over.
+
+### Evidence
+<img src="https://github.com/ccsjreyes64/Engineering_4_Notebook/blob/main/Media/Screenshot%202021-10-14%203.09.44%20PM.png" height="200">
+
+### Reflection
+
+This assignment was pretty hard for me due to the amount of overlapping loops I ended up creating. I found it easier to use Harriet's method then the one most people did.
