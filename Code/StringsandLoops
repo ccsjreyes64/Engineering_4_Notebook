@@ -1,0 +1,12 @@
+# Python Program 03 - Strings and Loops (ENGR4)
+# Justyn Reyes
+# 10.05.21
+
+
+txt = input("Type in your text, then press 'Enter'") # takes input, makes sentence
+words = txt.split() # cuts the sentence into individual words
+for w in words: # for every word in the 'words' array
+    for letters in w: # breaks word into individual letters
+        print (letters) # print individual letters
+    print("-") # print "-" after word
+    # loops again for next word
