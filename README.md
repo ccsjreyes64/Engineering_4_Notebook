@@ -104,3 +104,17 @@ This assignment you had to create a 2 player hangman game using python where pla
 ### Reflection
 
 This assignment was pretty hard for me due to the amount of overlapping loops I ended up creating. I found it easier to use Harriet's method then the one most people did.
+
+## Designing a Skateboard 
+
+### Assignment Description
+
+For this assignment I followed a series of step on onshape to create a skateboard.
+
+### Evidence 
+
+
+
+### Reflection
+
+
