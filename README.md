@@ -113,8 +113,8 @@ For this assignment I followed a series of step on onshape to create a skateboar
 
 ### Evidence 
 
-
+![Screenshot 2022-1-11 3 18 38 PM](https://github.com/ccsjreyes64/Engineering_4_Notebook/blob/main/Media/Skateboard.PNG)
 
 ### Reflection
 
-
+This assignment I learned how to use more onshape tools like using the geometry of one part to create another. Also, I learned mating techniques to insert objects into the assembly like screws and nuts. My biggest trouble with this assignments was having the motivation to do it because I felt like it was too easy.
