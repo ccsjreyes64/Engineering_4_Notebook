@@ -105,7 +105,7 @@ This assignment you had to create a 2 player hangman game using python where pla
 
 This assignment was pretty hard for me due to the amount of overlapping loops I ended up creating. I found it easier to use Harriet's method then the one most people did.
 
-## Designing a Skateboard 
+## Designing a Skateboard
 
 ### Assignment Description
 
@@ -118,3 +118,19 @@ For this assignment I followed a series of step on onshape to create a skateboar
 ### Reflection
 
 This assignment I learned how to use more onshape tools like using the geometry of one part to create another. Also, I learned mating techniques to insert objects into the assembly like screws and nuts. My biggest trouble with this assignments was having the motivation to do it because I felt like it was too easy.
+
+## Building blocks and duck 
+
+### Assignment Description
+
+In this assignment We had to add in configurations to alter the lego piece's dimensions as well as appearance to build a duck. We then had to create a spreadsheet for the pieces and duck
+
+
+### Evidence 
+
+<img src="https://github.com/ccsjreyes64/Engineering_4_Notebook/blob/main/Media/Duck.PNG" height="250"> <img src="https://github.com/ccsjreyes64/Engineering_4_Notebook/blob/main/Media/duckmap.PNG" height="250">
+
+
+### Reflection
+
+This assignment I learned how to apply configurations to parts which will help me in the later future with making a bunch of parts that are similiar. My biggest struggle with this assignment was actually mating the legos because the snap on tool in onshape is garbage. 
